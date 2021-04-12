@@ -6,5 +6,5 @@ class Test {
     System.out.println("Hellow MTN");
   }
   private void nothing(){
-  {
+  }
 }
