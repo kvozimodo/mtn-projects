@@ -12,5 +12,12 @@
     <maven.compiler.source>1.6</maven.compiler.source>
     <maven.compiler.target>1.6</maven.compiler.target>
     </properties>
+    <distributionManagement>
+      <snapshotRepository>
+        <id>nexus</id>
+        <url>http://localhost:8081/repository/maven-napshots/</url>
+      </snapshotRepository>
+    </distributionManagement>
+
 
 </project>
