@@ -28,6 +28,8 @@
           <configuration>
               <serverId>nexus</serverId>
               <nexusUrl>http://172.28.128.7:8081/</nexusUrl>
+              <username>admin</username>
+              <password>admin</password>
           </configuration>
         </plugin>
 
